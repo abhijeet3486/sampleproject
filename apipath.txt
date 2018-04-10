@@ -1,0 +1,4 @@
+attarsanghatna.com/api/......
+
+age, city, taluka, biradari, blood-donor, business-training-program-funding,comitee,comitee-district,complexion,contacts,events-taken,familydata,familymembers,gallery,height,job-fair,jobs,list-of-graduates,login,maha-e-seva,mahila-munch,marritial-status,member,occupation,pdf-files,registraion,
+skill-development-program,sliders,state,upcoming-events,user,videos,yuvamanch
